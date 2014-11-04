@@ -28,10 +28,10 @@
     <string name="add">Add</string>
 
     <!-- Settings main menu category heading. Rom (Launcher, Themes, System). [CHAR LIMIT=40] -->
-    <string name="header_category_rom_settings">Bliss Customizations</string>
+    <string name="header_category_rom_settings">Giggly Settings</string>
 
     <!-- BeanStalk settings screens -->
-    <string name="interface_settings_title">Bliss Options</string>
+    <string name="interface_settings_title">GiggleKat Options</string>
 
     <!-- Color Picker -->
     <string name="dialog_color_picker">Color picker</string>
@@ -438,40 +438,38 @@
     <string name="media_scanner_on_boot_disabled">Do not scan media</string>
 
     <!-- TRDS Settings -->
-    <string name="trds_settings_title">Dark Bliss</string>
+    <string name="trds_settings_title">Dark Giggle</string>
     <string name="trds_default_color">TRDS default</string>
 
-    <!-- Donate to BlissStalk Builds -->
-    <string name="donate_beanstalk_title">Support Bliss Stalk</string>
-    <string name="donate_beanstalk_summary">Donate to Team Bliss</string>
-    <string name="donate_link" formatted="false">https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=8PH9QFPHVDBAG</string>
+    <!-- Donate to GiggleKat Builds -->
+    <string name="donate_beanstalk_title">Support GiggleKat Roms</string>
+    <string name="donate_beanstalk_summary">Donate to GiggleKat</string>
+    <string name="donate_link" formatted="false">https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=4ZVMU6WD96KE4</string>
 
-    <!-- About BlissStalk -->
-    <string name="about_beanstalk_settings_title">About Team Bliss</string>
-    <string name="about_beanstalk">About Team Bliss</string>
+    <!-- About GiggleKat -->
+    <string name="about_beanstalk_settings_title">About GiggleKat</string>
+    <string name="about_beanstalk">About GiggleKat</string>
     <string name="about_beanstalk_summary">@null</string>
-    <string name="app_name">BeanStalk</string>
+    <string name="app_name">GiggleKat</string>
     <string name="devs">Developer</string>
-    <string name="github_scotthartbti">https://github.com/TeamBliss</string>
+    <string name="github_GiggleKat">https://github.com/GiggleKat</string>
     <string name="github_cyanogenmod">https://github.com/CyanogenMod</string>
-    <string name="github_aokp">https://github.com/AOKP</string> 
-    <string name="donate_scotthartbti">https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=8PH9QFPHVDBAG</string>
-     <string name="beanstalk_site_title">TeamBliss website</string>
-     <string name="beanstalk_site_summary">Visit the Team Bliss Website for Latest News and Downloads.</string>
-    <string name="donate_cyanogenmod">http://forum.cyanogenmod.com/donate</string>
-    <string name="donate_aokp">http://aokp.co/</string>
-    <string name="google_scotthartbti">https://plus.google.com/u/0/communities/115833651542488654391</string>
-    <string name="facebook_beanstalk">http://www.facebook.com/pages/Beanstalk/421499131276932</string>
-    <string name="beanstalk">TeamBliss Build</string>
+    <string name="github_bliss">https://github.com/TeamBliss</string> 
+    <string name="donate_GiggleKat">https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=8PH9QFPHVDBAG</string>
+    <string name="beanstalk_site_title">GiggleKat Website</string>
+    <string name="beanstalk_site_summary">Visit the GiggleKat Webstie for Device Forums, Add-ons & MORE.</string>
+    <string name="google_scotthartbti">https://plus.google.com/u/0/communities/103042505711954217289</string>
+    <string name="facebook_GiggleKat">http://www.facebook.com/pages/GiggleKat-Rom/528307553935934</string>
+    <string name="beanstalk">GiggleKat Build Build</string>
     <string name="beanstalk_website_title">BeanStalk Blog</string>
     <string name="beanstalk_website_summary">Find latest news and updates about BeanStalk.</string>
-    <string name="beanstalk_source_title">Bliss Sources</string>
-    <string name="beanstalk_source_summary">Team Bliss source can be found at www.github.com/TeamBliss</string>
+    <string name="beanstalk_source_title">GiggleKat Sources</string>
+    <string name="beanstalk_source_summary">GiggleKat source can be found at www.github.com/GiggleKat</string>
     <string name="beanstalk_irc_title">Join me on IRC</string>
     <string name="beanstalk_irc_summary">#aokp-sgs2 @ irc.freenode.net</string>
     <string name="beanstalk_facebook_title">Facebook Page</string>
-    <string name="beanstalk_facebook_summary">Subscribe to BeanStalk Facebook page for updates.</string>
-    <string name="title_about">About Team Bliss</string>
+    <string name="beanstalk_facebook_summary">Subscribe to the GiggleKat Newsletter for updates.</string>
+    <string name="title_about">About GiggleKat</string>
 
     <!-- Wi-Fi region code settings-->
     <string name="wifi_setting_countrycode_title">Wi-Fi region code</string>
@@ -509,8 +507,8 @@
 
     <!-- Init.d -->
     <string name="header_summary_init_d">@null</string>
-    <string name="init_d_title">Bliss Init.d scripts</string>
-    <string name="app_name">Bliss Init.d Conf</string>
+    <string name="init_d_title">GiggleKat Init.d scripts</string>
+    <string name="app_name">GiggleKat Init.d Conf</string>
     <string name="pt_general">General</string>
     <string name="pt_zipalign_apks">Zipalign apps</string>
     <string name="ps_zipalign_apks">Zipalign any unaligned apps on each boot</string>
@@ -882,19 +880,19 @@
     <string name="lockscreen_icon_title">Lock handle icon</string>
     <string name="lockscreen_lock_icon_custom">Custom icon</string>
     <string name="lockscreen_lock_icon_default">Default icon</string>   
-    <string name="lockscreen_lock_icon_bs">Bliss Icon -White/White Ring</string>
-    <string name="lockscreen_lock_icon_bs_one">Bliss Icon #1-Green/White Ring</string>
-    <string name="lockscreen_lock_icon_bs_two">Bliss Icon #2-Green</string>
-    <string name="lockscreen_lock_icon_bs_three">Bliss Icon #3-Blue/White Ring</string>
-    <string name="lockscreen_lock_icon_bs_four">Bliss Icon #4-Blue</string>
-    <string name="lockscreen_lock_icon_bs_five">Bliss Icon #5-Red/White Ring</string>
-    <string name="lockscreen_lock_icon_bs_six">Bliss Icon #6-Red</string>
-    <string name="lockscreen_lock_icon_bs_seven">Bliss Icon #7-Pink/White Ring</string>
-    <string name="lockscreen_lock_icon_bs_eight">Bliss Icon #8-Pink</string>
-    <string name="lockscreen_lock_icon_bs_nine">Bliss Icon #9-Yellow/White Ring</string>
-    <string name="lockscreen_lock_icon_bs_ten">Bliss Icon #10-Yellow</string> 
-	<string name="lockscreen_lock_icon_bs_eleven">Bliss Icon #11-Inverted/White Ring</string> 
-	<string name="lockscreen_lock_icon_bs_twelve">Bliss Icon #12-Inverted</string> 
+    <string name="lockscreen_lock_icon_bs">GiggleKat Icon -Mascot</string>
+    <string name="lockscreen_lock_icon_bs_one">GiggleKat Icon #1-Sparkly Smiley</string>
+    <string name="lockscreen_lock_icon_bs_two">GiggleKat Icon #2-Happy Guy</string>
+    <string name="lockscreen_lock_icon_bs_three">GiggleKat Icon #3-VERY Happy</string>
+    <string name="lockscreen_lock_icon_bs_four">GiggleKat Icon #4-Open Mouth Smile</string>
+    <string name="lockscreen_lock_icon_bs_five">GiggleKat Icon #5-Eye Closed Smiley</string>
+    <string name="lockscreen_lock_icon_bs_six">GiggleKat Icon #6-Sly Guy</string>
+    <string name="lockscreen_lock_icon_bs_seven">GiggleKat Icon #7-American Flag Smiley</string>
+    <string name="lockscreen_lock_icon_bs_eight">GiggleKat Icon #8-Spounge Bob</string>
+    <string name="lockscreen_lock_icon_bs_nine">GiggleKat Icon #9-Thumbs Up</string>
+    <string name="lockscreen_lock_icon_bs_ten">GiggleKat Icon #10-Pilgram Smiley</string> 
+	<string name="lockscreen_lock_icon_bs_eleven">GiggleKat Icon #11-Turkey Smiley</string> 
+	<string name="lockscreen_lock_icon_bs_twelve">GiggleKat Icon #12-Pilgram 2 Smiley</string> 
     <string name="lockscreen_colorize_handle_title">Colorize custom handle</string>
     <string name="lockscreen_colorize_handle_summary">Lock color will be set to the lock handle</string>
     <string name="lockscreen_style_title">Theme style</string>
@@ -927,7 +925,7 @@
 
     <!-- Init.d Settings : Warning dialog -->
     <string name="init_warning_title">Please Read First</string>
-    <string name="init_warning">The Bliss Init.d scripts have been added to this build for experimental purposes only.  While some people may see improved performance on certain phones, there is always the possibility that some phones may not benefit from the scripts and you may actually see a negative impact.  The ideal situation is to find the right combination of scripts that provides the best bang for your buck while keeping a certain level of stability.</string>
+    <string name="init_warning">The GiggleKat Init.d scripts have been added to this build for experimental purposes only.  While some people may see improved performance on certain phones, there is always the possibility that some phones may not benefit from the scripts and you may actually see a negative impact.  The ideal situation is to find the right combination of scripts that provides the best bang for your buck while keeping a certain level of stability.</string>
 
     <!-- Basic Numbers -->
     <string name="two">Two</string>
@@ -1737,7 +1735,7 @@
     <string name="pa_pie_restart_launcher_summary">Changing screensize can have adverse effects. This option allows your launcher to regain sanity, the cost is a slight blackout (recommended)</string>
 
     <!-- BeanStalk Shortcuts -->
-    <string name="slim_shortcut_picker">Bliss Actions</string>
+    <string name="slim_shortcut_picker">GiggleKat Actions</string>
 
     <!-- Volume steps and panel timeout -->
     <string name="volume_steps_title">Volume steps</string>
@@ -2287,20 +2285,20 @@
     
     <!-- SuperSU header name - the app hides itself from launcher based on this resource name being present in com.android.settings -->
     <string name="supersu_title">SuperSU</string>        
-    <!-- BlissStalk Updater -->
-    <string name="blissupdate_settings_title">Bliss Stalk Updates</string>
+    <!-- GiggleKat Updater -->
+    <string name="blissupdate_settings_title">GiggleKat Stalk Updates</string>
     <string name="blissupdate_settings_summary">Check for, view or install updates</string>    
     
     <!-- Download Center -->
-    <string name="download_category">Bliss Downloads</string>
+    <string name="download_category">GiggleKat Downloads</string>
     <string name="download_category_summary">Find all of your support needs inside</string>
     <string name="rom_category">Rom Download</string>
     <string name="gapps_category">GAPPS Packages</string>
     <string name="xposed_category">Xposed Framework</string>
-    <string name="bsgapps_title">Bliss Gapps</string>
-    <string name="bsgapps_summary">Bliss Gapps are generally recommended gapps for use on Bliss Stalk</string>
-    <string name="bs_official_title">Team Bliss Release Builds</string>
-    <string name="bs_official_summary">Link for stable release builds of Bliss Stalk</string>
+    <string name="bsgapps_title">GiggleKat Gapps</string>
+    <string name="bsgapps_summary">GiggleKat Gapps are the pa gapps with more app options</string>
+    <string name="bs_official_title">GiggleKat Release Builds</string>
+    <string name="bs_official_summary">Link for stable release builds of GiggleKat</string>
     <string name="pagapps_title">PA Gapps</string>
     <string name="pagapps_summary">Fully packed with the majority of GAPPS, these are commonly used by users that do not want to download/install them later</string>
     <string name="xposed_warning">WARNING</string>
@@ -2319,21 +2317,21 @@
     <string name="equalizer_settings_title">Equalizer</string>
     <string name="equalizer_summary">ViPER4Android Access</string>
     
-    <!-- Bliss Extra Info -->
+    <!-- GiggleKat Extra Info -->
     <string name="blissextrainfo">Extra information</string>
     <string name="blissextrainfo_summary">Display extra info for cpu, display, etc</string> 
     
-    <!-- Share Bliss Rom -->
-    <string name="share_bliss_title">Share Bliss Stalk Rom</string>
-    <string name="share_bliss_summary">Let others know about Bliss Stalk</string>
-    <string name="share_message">Check out what Team Bliss is all about @ http://www.teambliss.x10host.com</string>
-    <string name="share_chooser_title">Share Team Bliss Roms</string>
+    <!-- Share GiggleKat Rom -->
+    <string name="share_bliss_title">Share GiggleKat Rom</string>
+    <string name="share_bliss_summary">Let others know about GiggleKat</string>
+    <string name="share_message">Check out what GiggleKat is all about @ http://www.gigglekat.com</string>
+    <string name="share_chooser_title">Share GiggleKat Roms</string>
     
     <!-- Vibration multiplier -->
     <string name="vibrator_multiplier_title">Vibration multiplier</string>  
     
     <!-- Themes -->
-    <string name="theme_settings_title">Dark Bliss</string>
+    <string name="theme_settings_title">Dark Giggle</string>
     <string name="theme_auto_mode_title">Switch theme</string>
     <string name="theme_auto_mode_off">Manual</string>
     <string name="theme_auto_mode_lightsensor">On light condition change</string>
